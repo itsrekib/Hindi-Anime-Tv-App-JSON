@@ -1,26 +1,106 @@
 {
   "hindi_anime": [
     {
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "publisher": "Muse India",
-      "videoUrl": "https://www.youtube.com/watch?v=giltqyz9RX4"
+      "title": "Naruto - Hindi Episode 1",
+      "publisher": "Anime Hindi Dub",
+      "videoUrl": "https://www.youtube.com/watch?v=85rw6nDrK4A"
     },
     {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "publisher": "Muse India",
-      "videoUrl": "https://www.youtube.com/watch?v=sPgNNOwqeYA"
+      "title": "One Piece - Hindi Clip",
+      "publisher": "Anime Hindi Dub",
+      "videoUrl": "https://www.youtube.com/watch?v=bA0Aka3b8pQ"
+    },
+    {
+      "title": "Dragon Ball Z - Hindi Episode",
+      "publisher": "Anime Hindi Dub",
+      "videoUrl": "https://www.youtube.com/watch?v=Do2e8I9Zc2A"
     }
   ],
+
   "english_anime": [
-   {
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "publisher": "Muse India",
-      "videoUrl": "https://www.youtube.com/watch?v=giltqyz9RX4"
+    {
+      "title": "Naruto - English Episode 1",
+      "publisher": "Crunchyroll Collection",
+      "videoUrl": "https://www.youtube.com/watch?v=W2i7wGAS3Kc"
     },
     {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "publisher": "Muse India",
-      "videoUrl": "https://www.youtube.com/watch?v=sPgNNOwqeYA"
+      "title": "One Piece - English Clip",
+      "publisher": "Crunchyroll Collection",
+      "videoUrl": "https://www.youtube.com/watch?v=0cmvQ6GFYJw"
+    },
+    {
+      "title": "Attack on Titan - English Clip",
+      "publisher": "Crunchyroll Collection",
+      "videoUrl": "https://www.youtube.com/watch?v=MGRm4IzK1SQ"
+    }
+  ],
+
+  "episode_1": [
+    {
+      "title": "Naruto EP1 - Part A",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=85rw6nDrK4A"
+    },
+    {
+      "title": "Naruto EP1 - Part B",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=Ogo3XoSqxB4"
+    },
+    {
+      "title": "Naruto EP1 - Part C",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=qNxtz-l9XlE"
+    },
+    {
+      "title": "Naruto EP1 - Part D",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=jVf2r8LrPqk"
+    }
+  ],
+
+  "episode_2": [
+    {
+      "title": "Naruto EP2 - Part A",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=uhsQq1jT6c4"
+    },
+    {
+      "title": "Naruto EP2 - Part B",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=I52wkbYzyfY"
+    },
+    {
+      "title": "Naruto EP2 - Part C",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=y6t6oAZlOQs"
+    },
+    {
+      "title": "Naruto EP2 - Part D",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=7VguP5nUk2E"
+    }
+  ],
+
+  "episode_3": [
+    {
+      "title": "Naruto EP3 - Part A",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=VmT1r4Q0kXo"
+    },
+    {
+      "title": "Naruto EP3 - Part B",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=tYhM2nP_3yE"
+    },
+    {
+      "title": "Naruto EP3 - Part C",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=8pF5xKqVu84"
+    },
+    {
+      "title": "Naruto EP3 - Part D",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=2r7iQX9Nf6o"
     }
   ]
 }
