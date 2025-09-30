@@ -1,0 +1,30 @@
+{
+  "hindi": [
+    {
+      "title": "Top 10 Anime Moments (Hindi)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_HINDI_1",
+      "publisher": "HindiChannel1",
+      "category": "hindi anime"
+    },
+    {
+      "title": "Anime Review in Hindi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_HINDI_2",
+      "publisher": "HindiChannel2",
+      "category": "hindi anime"
+    }
+  ],
+  "english": [
+    {
+      "title": "Best Anime Scenes 2023",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_ENG_1",
+      "publisher": "EnglishChannel1",
+      "category": "english anime"
+    },
+    {
+      "title": "Top Anime Battles (English)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_ENG_2",
+      "publisher": "EnglishChannel2",
+      "category": "english anime"
+    }
+  ]
+}
