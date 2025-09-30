@@ -1,30 +1,26 @@
 {
-  "hindi": [
+  "hindi_anime": [
     {
-      "title": "Top 10 Anime Moments (Hindi)",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_HINDI_1",
-      "publisher": "HindiChannel1",
-      "category": "hindi anime"
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "publisher": "Muse India",
+      "videoUrl": "https://www.youtube.com/watch?v=giltqyz9RX4"
     },
     {
-      "title": "Anime Review in Hindi",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_HINDI_2",
-      "publisher": "HindiChannel2",
-      "category": "hindi anime"
+      "title": "That Time I Got Reincarnated as a Slime",
+      "publisher": "Muse India",
+      "videoUrl": "https://www.youtube.com/watch?v=sPgNNOwqeYA"
     }
   ],
-  "english": [
-    {
-      "title": "Best Anime Scenes 2023",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_ENG_1",
-      "publisher": "EnglishChannel1",
-      "category": "english anime"
+  "english_anime": [
+   {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "publisher": "Muse India",
+      "videoUrl": "https://www.youtube.com/watch?v=giltqyz9RX4"
     },
     {
-      "title": "Top Anime Battles (English)",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEOID_ENG_2",
-      "publisher": "EnglishChannel2",
-      "category": "english anime"
+      "title": "That Time I Got Reincarnated as a Slime",
+      "publisher": "Muse India",
+      "videoUrl": "https://www.youtube.com/watch?v=sPgNNOwqeYA"
     }
   ]
 }
